@@ -1,5 +1,6 @@
 # ChatBot_AI_Gigli
 This is chatbot mostly used in website to answer the questions of user and to solve and confusion of users.
+We name this as "Gigli"
 
 # AI Chatbot (Web-Based)
 
